@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimboyworkman
 - 
 - 🌱 I’m currently learning statistics & computerscience at handong univ.
-- 🌱 I’m looking to collaborate on 카카오 브레인 / 소풍 벤처스
+- 🌱 I’m sincerely hope to work in sopoong ventures as technological reasercher.
 - 🌱 I expect to do useful researches for them & other peoples who might need help!
 
 <!---
